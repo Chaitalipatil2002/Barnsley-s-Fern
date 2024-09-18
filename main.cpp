@@ -1,5 +1,3 @@
-//Chaitali Patil
-//301877356
 
 #include <string.h>
 #ifdef __APPLE__
